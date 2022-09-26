@@ -14,7 +14,7 @@ Integrating a contnent curation platform for investors with the companies other 
 ## **Client Partner Information**
 
 ### *Company:*
-WHATEVER COMPANY or CORRESPONDENCE
+
 
 ### *People:*
 - Matthew Garrett   email: matthew.garrett@trustasc.com
