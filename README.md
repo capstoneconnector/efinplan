@@ -1,8 +1,8 @@
-#efinfplan
+##eFinPlan
 
 ## **Summary**
 
-Integrating a contnent curation platform for investors with the companies other existing softwares.
+Integrating a content curation platform for investors with MoneyTree's existing system.
 
 ## **Team Members**
 
@@ -14,7 +14,7 @@ Integrating a contnent curation platform for investors with the companies other 
 ## **Client Partner Information**
 
 ### *Company:*
-
+Accutech
 
 ### *People:*
 - Matthew Garrett   email: matthew.garrett@trustasc.com
