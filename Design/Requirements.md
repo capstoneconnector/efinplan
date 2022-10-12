@@ -1,58 +1,151 @@
+﻿
 # Functional Requirements
  
-*BR1
-  * The system shall display curated financial educated resources to the Investor.
-  * If an advisor checks the box that states they have gone through the proper review procedure the advisor shall be able to publish the content to the system.
-  * If an advisor does not check the box that states they have gone through the proper review procedure the advisor shall not be able to publish the content to the system.
-  * The advisor shall be able to choose content from Vestorly to be published to the system.
-  * The advisor shall be able to update content that they published to the system.
-  * The advisor should be able to remove content that they published to the system.
-  * If the user wishes to further investigate the displayed content, the system shall allow them to click on the content and go directly to the source.
-  * 
+* FR1: The website shall allow Advisors to publish content.
+	* BR1
+	* []
+* FR2: The website shall allow the Advisor to publish content only if they tick a checkbox verifying that they have had their broker dealer review it.
+	* BR1
+	* []
+* FR3: Once an Advisor publishes content successfully, the website shall display a success message for five seconds.
+	* BR1
+	* []
+* FR4: If an error occurs once an Advisor tries to publish content, the website shall display an error message for five seconds.
+	* BR1
+	* []
+* FR5: The website shall allow any user to view all available content in a list.
+	* BR1
+	* []
+* FR6: The website shall allow Advisors to edit content that they have published.
+	* BR1
+	* []
+* FR7: The website shall allow the Advisor to publish edited content only if they tick a checkbox verifying that they have had their broker dealer review it.
+	* BR1
+	* []
+* FR8: Once an Advisor publishes edited content, the website shall display a success message for five seconds.
+	* BR1
+	* []
+* FR9: If an error occurs once an Advisor tries to publish edited content, the website shall display an error message for five seconds.
+	* BR1
+	* []
+* FR10: The website shall allow the Advisor to delete content that they have published.
+	* BR1
+	* []
+* FR11: Once an Advisor deletes content, the website shall display a success message for five seconds.
+	* BR1
+	* []
+* FR12: If an error occurs once an Advisor tries to delete content, the website shall display an error message for five seconds.
+	* BR1
+	* []
+* FR13: The website shall allow the Advisor to add tags to content that they have published.
+	* BR1
+	* []
+* FR14: If an error occurs once an Advisor tries to add tags, the website shall display an error message for five seconds.
+	* BR1
+	* []
+* FR15: The website shall allow the Advisor to remove tags to content that they have published.
+	* BR1
+	* []
+* FR16: If an error occurs once an Advisor tries to remove tags, the website shall display an error message for five seconds.
+	* BR1
+	* []
+* FR17: The website shall allow for Investors to favorite content.
+	* BR1
+	* []
+* FR18: The website shall allow for Investors to unfavorite content.
+	* BR1
+	* []
+* FR19: The website shall allow for Investors to view only the content that they have favorited.
+	* BR1
+	* []
+* FR20: The website shall allow any user to search for content by tag using a search bar.
+	* BR1
+	* []
+* FR21: If an Advisor clicks on the title of a piece of content, the website shall direct them to the URL of the content in a new tab.
+	* BR1
+	* []
+* FR22: If an Investor clicks on the title of a piece of content, the website shall direct them to the URL of the content in a new tab.
+	* BR1
+	* []
 
-*BR2
-  * An Investor shall be able to view all available appointment timeslots with an advisor
-  * An Investor shall be able to request a specific timeslot for an appointment with a specific advisor.
-  * An advisor shall be able to accept an appointment.
-  * An advisor shall be able to decline an appointment.
-  * An advisor shall be able to change the status of an appointment after having already accepted or declined said appointment.
-  * An Investor shall be able to cancel an appointment after it is scheduled.
-  * An Investor shall be able to click on an approved appointment timeslot and view the information of the appointment.
-  * An Advisor shall be able to click on an approved appointment timeslot and view the information of the appointment.
-*BR3
-  * If an investor submits goals for a financial plan the system shall create a plan for them.(expand)
-  * An investor shall be able to view all of their created financial plans in the financial plans page.
-  * An investor shall be able to edit the details of their financial plans.
-  * An advisor shall be able to view their clients financial plans. (maybe) 
-*BR4
-  * An advisor shall be able to add tags to content they publish.
-  * An Advisor shall be able to edit the tags of the content they publish.
-  * An Advisor shall be able to remove the tags of the content they publish.
-  * An Investor shall be able to search content by tag.
-  * An Investor shall be able to search content by name of content.
-  * An Investor shall be able to favorite content.
-  * An Investor shall be able to view all of their favorited content.
-  * An Investor shall be able to remove content from their favorites.
-  * 
-*BR5
-  * If the advisor attempts to create an account without having subscribed through AMember the system shall notify the advisor they have not payed.
-  * If the advisor attempts to create an account without having subscribed through AMember the system shall not allow them to create an account.
-  * If the advisor attempts to create an account after having subscribed through AMember the system shall register the account.
-  * 
-*BR6
-  * The investor shall be able to enter information into the education fund calculator based on the parameters found in the MoneyTree API defintion.
-  * The investor shall be able to enter information into the financial goal calculator based on the parameters found in the MoneyTree API defintion.
-  * The investor shall be able to enter information into the retirment fund calculator based on the parameters found in the MoneyTree API defintion.
-  * The investor shall be able to enter information into the social security calculator based on the parameters found in the MoneyTree API defintion.
-  * 
-*BR7
-  * The investor shall be able to connect their bank information via MX to the system.
-  * The system shall pull the investors financial information from MX.
-  * The system shall display the investors financial information on the dashboard page.
+* FR23: The website shall allow an Investor to view all available timeslots for an Advisor appointment.
+	* BR2
+	* []
+* FR24: The website shall allow an Investor to schedule an appointment with an Advisor.
+	* BR2
+	* []
+* FR25: The website shall only allow an Investor to schedule an appointment if there is already no appointment scheduled at that time.
+	* BR2
+	* []
+* FR26: If an error occurs once an Investor tries to schedule an Appointment, the website shall display an error message for five seconds.
+	* BR2
+	* []
+* FR27: The website shall allow any user to click on one of their scheduled appointments and view its information.
+	* BR2
+	* []
+* FR28: The website shall allow an Investor to view all of their approved appointments on the Appointments page.
+	* BR2
+	* []
+* FR29: The website shall allow an Investor to cancel a selected approved appointment on the Appointments page.
+	* BR2
+	* []
+* FR30: The website shall allow an Investor to view all of their pending appointments on the Appointments page.
+	* BR2
+	* []
+* FR31: The website shall allow an Advisor to view all of their scheduled appointments.
+	* BR2
+	* []
+* FR32: The website shall allow an Advisor to approve a selected appointment.
+	* BR2
+	* []
+* FR33: The website shall allow an Advisor to deny a selected appointment.
+	* BR2
+	* []
+* FR34: The website shall allow an Investor to create a financial plan.
+	* BR3
+	* []
+* FR35: The website shall allow an Investor to view all of their created financial plans.
+	* BR3
+	* []
+* FR36: The website shall allow an Investor to edit the details of their created financial plans.
+	* BR3
+	* []
+* FR37: The website shall allow an Investor to use the MoneyTree Plan Education Fund Calculator.
+	* BR3
+	* []
+* FR38: The website shall allow an Investor to use the MoneyTree Plan Financial Goal Calculator.
+	* BR3
+	* []
+* FR39: The website shall allow an Investor to use the MoneyTree Plan Retirement Fund Calculator.
+	* BR3
+	* []
+* FR40: The website shall allow an Investor to use the MoneyTree Plan Social Security Calculator.
+	* BR3
+	* []
+* FR41: The website shall allow an Investor to connect their bank information using MX.
+	* BR3
+	* []
+* FR42: If an Investor has connected their bank information using MX, the website will display the bank information.
+	* BR3
+	* []
+* FR43: The website shall allow for Advisors to register from a specialized link.
+	* BR4
+	* []
+* FR44: The website shall allow for Advisors to register only if they have subscribed through AMember.
+	* BR4
+	* []
+* FR45: If an Advisor attempts to register without subscribing through AMember, then the website shall notify the Advisor that they have not paid. 
+	* BR4
+	* []
+* FR46: The website shall allow for Investors to register without subscribing through AMember.
+	* BR4
+	* []
+
 
  
 
 # Non-Functional Requirements
 
-* The website should be themed around the color scheme of the MoneyTree marketing definition
-* The website should be mobile friendly.
+* The website should be themed around the color scheme of the MoneyTree marketing definition.
+	* BR4
+	* [LOW]
