@@ -1,4 +1,4 @@
-![Architecture](/Design/Architecture.png)
+![Architecture](/Design/Architecture_Diagram.png)
 
 # Explanation
 
