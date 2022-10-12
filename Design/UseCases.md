@@ -30,13 +30,13 @@
 	* Description: This use case is needed because financial education resources published to the site need to be organized for Investors to find what they need. Tags can be used to differentiate content based on what they contain. Therefore, eFinPlan can differentiate and organize content based on tags added to published content.
 	* Actors: Advisors
 	* Flow: As an Advisor publishes content, they are able to add tags using an input field to the content they are publishing.
-	* Business Requirement: BR4
+	* Business Requirement: BR1
 
  * UC4: Search financial education content
 	* Description: This use case is needed because Investors need to find content based around their needs. By including a search feature to the site, Investors can search the title and tags of content to find what they need to know instead of only being able to browse all available content. Therefore, eFinPlan needs a search feature so that Investors can limit what they see based around their needs. 
 	* Actors: Investors, Advisors
 	* Flow: After content has been published, Investors and Advisors can type in a search bar to filter content that matches their search in either name or tag. Once filtered, they can see the content that matches their search and click on one to view.
-	* Business Requirement: BR4
+	* Business Requirement: BR1
 
  * UC5: Schedule financial advising appointment
 	* Description: This use case is needed because eFinPlan is meant to offer Investors financial advice directly from Advisors. Scheduling appointments allows for Investors and Advisors to meet so that Investors can receive direct advice. Therefore, eFinPlan needs a system for Investors to schedule an appointment with Advisors.
@@ -72,22 +72,22 @@
 	* Description: MoneyTree has various existing calculators for topics related to finances, such as retirement. In order to leverage these existing tools, eFinPlan can use MoneyTree's calculators on the site. Therefore, in order to enhance the experience of Investors using the site to educate themselves about finances, eFinPlan should allow Investors to use these existing MoneyTree calculators when forming their financial plans.
 	* Actors: Investors, MoneyTree Plan
 	* Flow: While viewing their financial plan, Investors are able to click on any of the available MoneyTree calculators to use them. The responses of the calculators may be used to assist in editing or creating a financial plan.
-	* Business Requirement: BR6
+	* Business Requirement: BR3
 
  * UC11: Subscribe to eFinPlan
 	* Description: This use case is needed so that eFinPlan can monetize the service. MoneyTree, which owns eFinPlan, is partnered with AMember, so the platform must use AMember in order to lock parts of the site under a paywall. In order for Advisors to use the site, they must pay the subscription to eFinPlan before they register. Therefore, eFinPlan must allow for Advisors to subscribe using AMember prior to registration.
 	* Actors: Advisors, AMember
 	* Flow: Once an Advisor can register for the site, they are prompted with a button to go to AMember to purchase the subscription to eFinPlan. Once the subscription goes through, they are allowed to complete registration.
-	* Business Requirement: BR5
+	* Business Requirement: BR4
 
  * UC12: Connect bank information to eFinPlan
 	* Description: In order to offer a single place for Investors to quickly view all of their financial information, MoneyTree has partnered with MX, a platform that aggregates financial information from banks. MX allows the Investor to log in with their bank, which sends all of the financial information from the bank to eFinPlan. Therefore, to quickly aggregate Investors' financial information, eFinPlan will allow Investors to connect their bank information using MX.
 	* Actors: Investors, MX
 	* Flow: Once an Investor registers their account, they will be prompted to click a button that brings them to MX. At the MX page, they can fill out their bank information.
-	* Business Requirement: BR7
+	* Business Requirement: BR3
 
  * UC13: View aggregated financial information
 	* Description: Because MoneyTree wants to aggregate financial information for Investors so that they can get help in creating financial plans, eFinPlan will use the information received from MX to display all of the Investor's relevant data in one area. This will allow the Investor to view all of their relevant bank information in one place so that they can reference it when creating their financial plans. Also, Advisors may be able to use some of the data in order to better advise Investors. Therefore, eFinPlan should display the aggregated information from MX.
 	* Actors: Investors, MX
 	* Flow: After an Investor connects their bank information using MX, they can view all of the received information on one page.
-	* Business Requirement: BR7
+	* Business Requirement: BR3
