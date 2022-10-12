@@ -14,16 +14,16 @@
 
 # Use Cases
 
-* UC1: Publish financial education content
-	* Description: This use case is needed because the platform is meant to teach Investors about financial topics. In order to do this, eFinPlan will host a catalogue of curated financial education content. These resources must be found or made and then published onto the site. Therefore, eFinPlan needs to be used to publish content.
+* UC1: Publish links to financial education content
+	* Description: This use case is needed because the platform is meant to teach Investors about financial topics. In order to do this, eFinPlan will host a library of links to curated financial education content. These resources must be found or made and then published onto the site's library. Therefore, eFinPlan needs to be used to publish links to content.
 	* Actors: Advisors
-	* Flow: First, the Advisor will either make or find content that they would like to be available on the platform. Then, they will click a button to publish the content. They will fill out information about the content and finally click a publish button.
+	* Flow: First, the Advisor will either make or find content that they would like to be available on the platform. Then, they will click a button to publish the link to the content. They will fill out information about the content and finally click a publish button.
 	* Business Requirement: BR1
 
 * UC2: View financial education content
-	* Description: This use case is needed because the platform is meant to provide financial education resources to Investors. After content is published by Advisors, it needs to be viewable by Investors looking to learn or Advisors in need of reference. Therefore, eFinPlan needs to have viewable financial education content.
+	* Description: This use case is needed because the platform is meant to provide financial education resources to Investors. After links to content are published by Advisors, they need to be viewable by Investors looking to learn or Advisors in need of reference. Therefore, eFinPlan needs to have viewable financial education content.
 	* Actors: Investors, Advisors
-	* Flow: After an Advisor has published content to eFinPlan, Investors or Advisors can view all available content and select one to view in full.
+	* Flow: After an Advisor has published a link to content to eFinPlan, Investors or Advisors can view all available content and select one to view in full.
 	* Business Requirement: BR1
  
  * UC3: Tag financial education content
@@ -80,8 +80,8 @@
 	* Flow: Once an Advisor can register for the site, they are prompted with a button to go to AMember to purchase the subscription to eFinPlan. Once the subscription goes through, they are allowed to complete registration.
 	* Business Requirement: BR4
 
- * UC12: Connect bank information to eFinPlan
-	* Description: In order to offer a single place for Investors to quickly view all of their financial information, MoneyTree has partnered with MX, a platform that aggregates financial information from banks. MX allows the Investor to log in with their bank, which sends all of the financial information from the bank to eFinPlan. Therefore, to quickly aggregate Investors' financial information, eFinPlan will allow Investors to connect their bank information using MX.
+ * UC12: Connect financial information to eFinPlan
+	* Description: In order to offer a single place for Investors to quickly view all of their financial information, MoneyTree has partnered with MX, a platform that aggregates financial information from banks. MX allows the Investor to log in with their bank, which sends all of the financial information from the bank to eFinPlan. Therefore, to quickly aggregate Investors' financial information, eFinPlan will allow Investors to connect their financial information using MX.
 	* Actors: Investors, MX
 	* Flow: Once an Investor registers their account, they will be prompted to click a button that brings them to MX. At the MX page, they can fill out their bank information.
 	* Business Requirement: BR3
