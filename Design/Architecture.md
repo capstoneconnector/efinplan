@@ -1,4 +1,5 @@
-![Architecture](/Design/Architecture_Diagram.png)
+
+![Architecture_Diagram](https://user-images.githubusercontent.com/70241666/195263692-e6ce5baf-10ad-4ebe-9c48-829c45145928.png)
 
 # Explanation
 
