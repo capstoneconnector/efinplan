@@ -1,0 +1,13 @@
+# Business Requirements
+
+* BR1: We want to help investors learn financial planning for themselves using curated content.
+  * The website our client is requesting we build allows for investors to peruse curated content added or created by financial advisors. This allows for investors to learn more about financial planning. Therefore, the main purpose of the website that the client has requested we build is to teach financial literacy and planning to investors. This makes it a business requirement, as tackling poor skills of financial planning is the core aspect of the website we have been tasked with building.
+
+* BR2: We want to allow investors to receive financial advice directly from financial advisors.
+  * Our client has repeatedly stated that they wish for the website to allow investors to schedule one-on-one meetings with financial advisors. This is a solution to the problem of investors not having direct access to financial advisors for advice. Hence, this business requirement is the purpose of their request, as allowing investors to meet with advisors would let investors receive direct advice from financial advisors.
+
+* BR3: We want to assist investors in the creation of attainable financial plans.
+  * After meeting with the client, we have observed that the client is concerned with the commonality of poor financial planning in the United States. Many of the features that they have requested we make have to do with direct assistance in an investor's financial planning. For example, we have been asked to aggregate investors' data in a single place as well as use existing MoneyTree tools to assist in the creation of financial plans. Because the clients have emphasized the lack of financial planning skills in the general population as the inspiration behind the project and requested features that directly help investors as opposed to only teaching them, their desire to help investors in forming smart financial plans is a clear business requirement. 
+
+* BR4: We want MoneyTree to receive money based on financial advisors' involvement in the platform.
+  * Some of the features requested of us by the client involve using a third-party subscription billing service to charge advisors for a license to use the platform. Furthermore, some of the client's description of other features mark their purpose as incentives for financial advisors to pay for the platform. Therefore, it is clear that the client wishes to receive money from the involvement of financial advisors in the platform. This makes it a business requirement, as it is a core aspect of the creation of the platform and is separate from the other requirements.
