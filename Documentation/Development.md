@@ -84,9 +84,7 @@ From there, you can start developing for either the frontend or the backend!
 
 If you want to ensure that any changes you make does not affect the rest of the projects, you can run the Docker Container for eFinPlan.
 
-Just go to the root of the project and type `docker compose up` or change the default project and launch settings to Docker to click `Run`.
-
-![image](https://user-images.githubusercontent.com/70241666/200989278-0641f19b-f0c1-4a33-af2c-9e139508bc23.png)
+Just go to the root of the project and type `docker compose up`.
 
 The Docker container splits the solution into the following:
  - The frontend is at localhost:8080
