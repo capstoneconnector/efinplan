@@ -80,11 +80,15 @@ Opening it this way will allow you to access the Swagger environment by going to
 
 From there, you can start developing for either the frontend or the backend!
 
-### Development for Production
+### Replicating via Docker
 
-If you want to ensure that any changes you make does not affect the rest of the projects, you can run the Docker Container for eFinPlan.
+If you would rather run everything at once with Docker, everything in eFinPlan is packaged into one container.
 
-Just go to the root of the project and type `docker compose up`.
+1. [Ensure you have Docker Desktop installed and running.](https://www.docker.com/products/docker-desktop/)  
+2. Go to the root folder of the project. You should see a file titled `docker-compose.yml`.
+3. Open the folder in your terminal.
+4. Run `docker compose up`.
+5. You should see the commands running. Eventually, you will see the Vite command line GUI show up. This means that the container is up and running. You can double-check by looking at the container in Docker Desktop, it should state that all three images are running. Then, you can simply navigate to the URLs shown below.
 
 The Docker container splits the solution into the following:
  - The frontend is at localhost:8080
