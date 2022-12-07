@@ -66,6 +66,28 @@ Opening it this way will allow you to access the Swagger environment by going to
 
 ![image](https://user-images.githubusercontent.com/70241666/200988913-cc55ebd3-ecfb-4a55-ac53-d913efffcdea.png)
 
+In order to access any routes beside the Login and Registration ones, you must first create an account or log in with an existing one.
+
+Note that passwords must be between 6 and 15 characters inclusive and include at least one lowercase letter, uppercase letter, number, and nonalphanumeric character.
+
+After registering or logging in, the response will give you a token.
+
+![image](https://user-images.githubusercontent.com/70241666/206307079-ef441379-252f-4b5f-b551-94f5ceffab7b.png)
+
+At the top of the page, click the Authorize button on the right.
+
+![image](https://user-images.githubusercontent.com/70241666/206307142-e4a64fdf-29c5-47d2-b465-68cd54e3dc1c.png)
+
+Then, enter `Bearer ` followed by the token you received.
+
+![image](https://user-images.githubusercontent.com/70241666/206307249-c9a2b415-cf74-4fc8-a959-de013d96038e.png)
+
+After clicking the Authorize button, you will be able to access every other route.
+
+This can be verified by seeing a lock icon to the right of the routes.
+
+![image](https://user-images.githubusercontent.com/70241666/206307373-887daa9b-99e1-430b-865c-99374b89e6b4.png)
+
 9. For the frontend, right click eFinPlan.Vue in the Solution Explorer and click `Open in Terminal`.
 
 ![image](https://user-images.githubusercontent.com/70241666/200987561-cd6f3bc3-a84e-4b90-a42c-5462d3ee5d23.png)
@@ -79,6 +101,8 @@ Opening it this way will allow you to access the Swagger environment by going to
 ![image](https://user-images.githubusercontent.com/70241666/200988241-c184704f-c6fc-4cad-85ac-dc06953c9e2f.png)
 
 From there, you can start developing for either the frontend or the backend!
+
+(Note: If you run the API directly through Visual Studio, you must change the API URL in `eFinPlan.Vue/src/main.js` to use https instead of http.
 
 ### Replicating via Docker
 
