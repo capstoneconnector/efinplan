@@ -188,7 +188,24 @@ The Appointments Page is currently under construction. It will be completed in a
 
 ## Planning Page
 
-Similarly to the Appointments Page, the Planning Page is currently under construction. It will be completed in a later iteration. Hence, it is blank, aside from a message stating that it is coming soon.
+The Planning Page currently hosts the calculators provided by the MoneyTree Plan API.
 
-![image](https://user-images.githubusercontent.com/70241666/200983848-af3508e2-484a-46c8-bb24-5257d3faf183.png)
+![image](https://user-images.githubusercontent.com/70241666/206335388-cda5c3fd-3d45-44ae-ab36-ccf324a2e11b.png)
 
+Every calculator here is labeled, simply fill out the form for the one you wish to use and then click the submit button at the bottom.
+
+![image](https://user-images.githubusercontent.com/70241666/206335487-bd28da6c-83b8-49ea-b5d7-ab26a71a1dab.png)
+
+Some calculators allow you to add more fields using an Add button. Click it to create more fields to fill in what you wish.
+
+![image](https://user-images.githubusercontent.com/70241666/206335585-f32382ae-9d2e-4e23-8bfd-76ef321d810e.png)
+
+After doing this, if you wish to remove that section, you may click the remove button.
+
+![image](https://user-images.githubusercontent.com/70241666/206335626-32a2d993-92da-4f90-ab2f-1beb2697e9ae.png)
+
+Once a calculator is submitted, it will disappear and be replaced with a collapsable section to view the results. Click it to see the results of the calculator.
+
+![image](https://user-images.githubusercontent.com/70241666/206335781-7902d9ec-4418-45e5-bcc8-f4b8e8a00bfb.png)
+
+![image](https://user-images.githubusercontent.com/70241666/206335883-4eaeae4b-c2c7-4ced-bccf-c90fd59d7096.png)
