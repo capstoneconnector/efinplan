@@ -187,3 +187,23 @@ Then, you can select a single test and click the green Play icon to run the sele
 
 In this report, the green checkmarks indicate a passing test. If they failed, they will appear as a red "X". On the right side of the Test Explorer, you can see the total runtime of the tests, the total tests passed or failed, and any warnings or errors that occur. Clicking on the Error or Warning text will show you the details of any warning or error.
 
+# Linting
+Both linting solutions are run through the command line.
+
+## .NET Linting
+To lint the .NET solution, we use the .editorconfig format.
+
+In the root folder, there is a .editorconfig based on .NET defaults, which fulfills the Accutech guidelines.
+
+To run the linter, make sure your terminal is in the root folder, where the solution is, and run `dotnet format .\bsucapstone.efinplan.sln`. If you are not on Windows, use the proper relative path formatting. This will automatically format the code of every project, sans the Vue one, to follow the linting guidelines. Do this prior to any commits.
+
+## Vue Linting
+To lint the Vue project, we use Prettier.
+
+In the root folder of the Vue project, which is eFinPlan.Vue, there is a .Prettierrc file from Accutech that defines the style guidelines that Prettier will format the code to.
+
+To run the linter, make sure your terminal is in the root folder of the Vue project, where the .Prettierrc file is, and run `npx prettier --write .`. This will format all files within the Vue project. 
+
+Note that you must have all NPM packages installed prior to linting, as Prettier is a development dependency pulled from NPM. Therefore, ensure that you have the node_modules folder after running `npm install` in the Vue project directory when you first replicate the development environment.
+
+
