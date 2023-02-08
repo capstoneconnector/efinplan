@@ -144,12 +144,14 @@ eFinPlan's development branch is feature/creation. Its master branch is simply c
   * eFinPlan.Core
     * This is a Project folder within the .NET Solution that contains the Model definitions and Entity Framework contexts for eFinPlan.
     * The Models folder contains the Model definitions.
-    * The Data folder contains the Entity Framework context definitions.
+    * The Data folder contains the Entity Framework context definitions and Data classes for modifying data.
     * The Migrations folder contains data migrations for the database.
+  * eFinPlan.Core.Tests
+    * This is a Project folder within the .NET Solution that contains the tests for the Core data modifying classes.
   * eFinPlan.Infrastructure.PlanApi
-    * This contains the code for the MoneyTree Plan API SDK. Each calculator has its own folder with its own classes.
+    * This is a Project folder within the .NET Solution that contains the code for the MoneyTree Plan API SDK. Each calculator has its own folder with its own classes.
   * eFinPlan.Infrastructure.PlanApi.Tests
-    * This contains the test for the Plan API SDK.
+    * This is a Project folder within the .NET Solution that contains the tests for the Plan API SDK.
   * eFinPlan.Vue
     * This is a Project folder within the .NET Solution that contains the Vue frontend. Because Vue provides testing in its own environment, tests are held here as well.
     * src
