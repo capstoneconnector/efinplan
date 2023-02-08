@@ -182,9 +182,131 @@ If an error occurs when deleting content, you will be shown an error message sta
 
 ## Appointments Page
 
-The Appointments Page is currently under construction. It will be completed in a later iteration. Hence, it is blank, aside from a message stating that it is coming soon.
+The Appointments Page allows Advisors to set times that they are available, approve, reject, and cancel appointments, and for Investors to schedule or cancel appointments with Advisors.
 
-![image](https://user-images.githubusercontent.com/70241666/200983751-08a40c42-ff0a-4c0b-ae12-0ff81335517c.png)
+![image](https://user-images.githubusercontent.com/70241666/217417968-73bea478-cfe2-4526-82a1-5011120d7ac5.png)
+
+### Advisors
+
+Advisors can view the times they are available or add new available times.
+
+#### Making Available Times
+
+To add a new available time, click the Add button under the date you wish to add time for. The calendar view only shows the next 30 days.
+
+![image](https://user-images.githubusercontent.com/70241666/217418181-0e90ba3c-4bc5-43df-8a5a-c16350f202af.png)
+
+Clicking Add will pop up with a modal in which you can input the start and end times.
+
+![image](https://user-images.githubusercontent.com/70241666/217418263-83aab124-c0fd-4929-9c10-2ec9cdd65fc9.png)
+
+After doing so, clicking Save will save the available time.
+
+![image](https://user-images.githubusercontent.com/70241666/217418500-0f5b1a51-5cfe-4906-a710-57a0571e3329.png)
+
+If you enter in an invalid timeframe, you will be told so.
+
+![image](https://user-images.githubusercontent.com/70241666/217418552-0c1ab9b3-245b-490a-abe3-08720025f284.png)
+
+Clicking Cancel will close the popup with no change to your availability.
+
+#### Editing Available Times
+
+Clicking Edit next to an available time will let you edit it.
+
+![image](https://user-images.githubusercontent.com/70241666/217418971-bb04f79d-90bc-4363-a2ff-1545e82f4616.png)
+
+![image](https://user-images.githubusercontent.com/70241666/217419013-d14cc1dc-2a1f-41c4-b5b8-89a1e8e18f8c.png)
+
+The modal is the same as the one where you add available times.
+
+#### Viewing Appointments
+
+The top of the page will display your appointments filtered by status.
+
+![image](https://user-images.githubusercontent.com/70241666/217418749-ca47fd2e-11ec-4463-a343-170fdb5aeb6b.png)
+
+Appointments that can be Accepted or Rejected will be shown on the right. Accepted appointments are on the left.
+
+Clicking Accept or Reject will let you change the status of the appointment.
+
+![image](https://user-images.githubusercontent.com/70241666/217418876-0994efbc-ec08-4bce-ae80-cc5e554a0194.png)
+
+Click Yes to submit your changes, or No to cancel the status change.
+
+Hovering over and clicking an appointment will let you view its details.
+
+![image](https://user-images.githubusercontent.com/70241666/217419226-b1c43903-43bb-4ac2-a72f-331b3d46012d.png)
+
+This will bring up a modal with the details. Click the Exit button to close it.
+
+![image](https://user-images.githubusercontent.com/70241666/217419276-31531120-a791-42da-9cef-c38678518d37.png)
+
+#### Canceling Appointments
+
+Clicking the Cancel button next to an appointment will cancel it.
+
+![image](https://user-images.githubusercontent.com/70241666/217420263-d9afd90c-20a1-415b-996a-30ac79fb90aa.png)
+
+This will pop up with a modal asking Yes or No.
+
+![image](https://user-images.githubusercontent.com/70241666/217420350-9f0b7fec-6a5e-43be-bcd7-8efa46d5d1b9.png)
+
+Clicking Yes will cancel the appointment. Clicking No will close the modal without canceling.
+
+### Investors
+
+The Investor side is very similar to the Advisor side.
+
+![image](https://user-images.githubusercontent.com/70241666/217419387-48869b5f-2241-4b6f-98a7-5e2cb38c784d.png)
+
+#### Requesting an Appointment
+
+To request an appointment, click the Request Appointment button next to the available time you wish to request.
+
+![image](https://user-images.githubusercontent.com/70241666/217419456-6f1db40d-33c0-4271-a7c9-a25f01b4f734.png)
+
+This will bring up a modal in which you can enter in your appointment information.
+
+![image](https://user-images.githubusercontent.com/70241666/217419572-8ec6bac2-7ec9-44cc-90d5-9582be2b701f.png)
+
+Clicking Submit Request will submit the request. Clicking Cancel will cancel the request.
+
+#### Viewing an Appointment
+
+![image](https://user-images.githubusercontent.com/70241666/217419692-9c8a673b-d37f-42ef-877a-c5173c717f3b.png)
+
+After submitting a request, you will see the appointment at the top. Appointments that have just been requested will be pending until the Advisor accepts it.
+
+Hovering over the appointment will let you click on it to view its details.
+
+![image](https://user-images.githubusercontent.com/70241666/217419829-93c7bf4a-66bc-4025-b45f-311b2f52368c.png)
+
+Click the Exit button to exit the modal.
+
+#### Canceling an Appointment
+
+To cancel an appointment, click the button to Cancel it.
+
+![image](https://user-images.githubusercontent.com/70241666/217419925-08ed93a4-74b7-4027-80b2-76904d33d92f.png)
+
+This will bring up a modal to click Yes or No.
+
+![image](https://user-images.githubusercontent.com/70241666/217419966-758a409f-1ba6-464e-aff5-70b7d7635b39.png)
+
+Clicking Yes will cancel the appointment, clicking No will close the modal without canceling.
+
+#### Removing a Rejected Appointment
+
+If an appointment you requested is rejected, you will see it in the list of rejected appointments.
+
+![image](https://user-images.githubusercontent.com/70241666/217420116-2e57f353-bb5c-4f2a-bd48-cea884f6483c.png)
+
+Clicking the Remove button will bring up a modal.
+
+![image](https://user-images.githubusercontent.com/70241666/217420160-adeca513-4074-4539-a92e-80fa964433c7.png)
+
+Clicking Yes will remove that appointment. Clicking No will close the modal without removing.
 
 ## Planning Page
 
