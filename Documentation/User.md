@@ -3,7 +3,7 @@
 ## Login Page
 Upon navigating to the site via the URL, you will be presented with the Login Page.
 
-![image](https://user-images.githubusercontent.com/70241666/206301206-bbd0a90d-1c64-47d1-820d-bf088713b79c.png)
+![image](https://user-images.githubusercontent.com/70241666/227057713-1670b4d3-824b-420a-981e-e5c1f67e2f95.png)
 
 On the Login Page, you can enter your email and password and then click the Log In button to access eFinPlan.
 
@@ -17,7 +17,7 @@ You also must select a role. Investors are allowed to view and favorite content,
 
 You can also click the link under the form to access the Login Page.
 
-![image](https://user-images.githubusercontent.com/70241666/206301462-358c4c3d-03b3-4e3a-8881-4fda45b90659.png)
+![image](https://user-images.githubusercontent.com/70241666/227057785-7f0438a4-3245-4e9a-b8fa-5a998a3f6c21.png)
 
 All other pages are not able to be accessed without registering or logging in.
 
@@ -27,13 +27,13 @@ Upon either login or registration, you will be redirected to the Home Page.
 
 From the Home Page, you make click on any of the buttons on the header. These are links to the other pages - Content, Appointments, and Planning.
 
-![image](https://user-images.githubusercontent.com/70241666/206302634-42714aa0-d39d-4dc2-ba70-037ee73f66b7.png)
+![image](https://user-images.githubusercontent.com/70241666/227061032-f63f292d-ed1c-42f7-9470-714bc0a61e0f.png)
 
 The Log Out button will log you out and redirect you to the Login Page. By default, you are logged in for a full day - your session lasts if you close the page as well.
 
 The header will be visible on every page. To return to the Home Page from another page, click the eFinPlan logo in the top left of the screen.
 
-![image](https://user-images.githubusercontent.com/70241666/206302795-eff23e9d-f9f9-44e7-9548-0e1a93d5aa8e.png)
+![image](https://user-images.githubusercontent.com/70241666/227061090-4de1f757-930a-4115-9f6e-d0d42cfa65a1.png)
 
 ## Content Page
 The Content Page is the place to view, add, update, and delete curated financial advising content. Currently, because the site runs locally, the database will not include anything to begin with.
@@ -41,7 +41,7 @@ The Content Page is the place to view, add, update, and delete curated financial
 ### Investors
 If you are logged in as an Investor, you will be able to view, favorite, and search content.
 
-![image](https://user-images.githubusercontent.com/70241666/206303648-589422c3-6d11-428f-8fe4-6990a36f0239.png)
+![image](https://user-images.githubusercontent.com/70241666/227061156-f3e200a2-7797-43d9-aec0-96ccef0f949c.png)
 
 To favorite content, click on the star icon on the bottom left of the content card. It will change from grey to yellow if you favorite it. Clicking it again will change it from yellow back to grey, unfavoriting it.
 
@@ -49,9 +49,9 @@ To favorite content, click on the star icon on the bottom left of the content ca
 
 The search bar allows you to search content by name or tag. As you type, the contents will be filtered to match your search. If your search includes the start of a tag, it will suggest a tag for you to search. By clicking the suggestion, your search will include the tag.
 
-![image](https://user-images.githubusercontent.com/70241666/206303933-614a20de-608a-48c2-a935-a84dad48fbe6.png)
+![image](https://user-images.githubusercontent.com/70241666/227061210-d31224e0-fb4f-43bb-b3f7-42ab503b046f.png)
 
-![image](https://user-images.githubusercontent.com/70241666/206303953-2a1ba3a3-f78f-4907-8923-7b7ff3cfbe27.png)
+![image](https://user-images.githubusercontent.com/70241666/227061251-ba9bb28c-00f9-4d1e-bdf9-86d2244b8cd9.png)
 
 Clicking the "X" close icon in the search bar will clear your search.
 
@@ -59,7 +59,7 @@ Clicking the "X" close icon in the search bar will clear your search.
 
 The Favorites button next to the search bar allows you to see only your favorited content. This applies to the search as well.
 
-![image](https://user-images.githubusercontent.com/70241666/206304166-e309c413-746e-4828-aa11-9fbd22926224.png)
+![image](https://user-images.githubusercontent.com/70241666/227061293-bda12576-9a22-4f21-88f8-524b6805c240.png)
 
 While the filter is applied, the Favorites button will be dark.
 
@@ -92,7 +92,7 @@ To add content, simply click the `Add` button as seen on the top right corner of
 
 This pops up a window in which you can fill the information about the content you wish to add. Simply enter the data requested into the fields on the form.
 
-![image](https://user-images.githubusercontent.com/70241666/206305045-11df7b2b-e585-46b7-8e41-24975d3bcdf0.png)
+![image](https://user-images.githubusercontent.com/70241666/227061367-7b456cf2-b610-4b41-bf10-c2ddedb9428d.png)
 
 In order to add tags, you must first type a tag into the input box and then type the `Space` key. This adds the tag to the content, as seen below.
 
@@ -124,11 +124,11 @@ If the content was added successfully, you will see a message stating so. Click 
 
 Back on the Content Page, you will see your content as a card. Clicking on the underlined title of the content card will open the URL of the content in a new tab.
 
-![image](https://user-images.githubusercontent.com/70241666/206305638-023921bb-0380-4bb3-adfb-6679cc4190e5.png)
+![image](https://user-images.githubusercontent.com/70241666/227061429-f8e8afa7-c103-4e40-9441-e402207a57b9.png)
 
 If the content was not added successfully, you will see an error message. If this occurs, please try again. Clicking anywhere on the page after an error message occurs will allow you to try again.
 
-![image](https://user-images.githubusercontent.com/70241666/200981316-67701977-b10f-4972-900c-674de9414e93.png)
+![image](https://user-images.githubusercontent.com/70241666/227061689-c20e1ea6-3851-481e-9462-6c3d8cc40373.png)
 
 #### Editing Content
 
@@ -138,7 +138,7 @@ To edit content, first click on the green `Edit` button at the bottom-left of th
 
 This will bring up the Edit Content window. The existing values for the content are prefilled in the fields.
 
-![image](https://user-images.githubusercontent.com/70241666/206305792-6bd08510-abbd-4036-8788-513315253b2f.png)
+![image](https://user-images.githubusercontent.com/70241666/227061770-0bccb0f3-018f-42f5-a286-00f519a01709.png)
 
 Editing fields works the same way as the Add Content form.
 
@@ -154,7 +154,7 @@ Once submitted, your changes will be seen on the Content Page.
 
 If there is an error when submitting the edits, then you will see an error message. Again, you may click anywhere on the page to try again.
 
-![image](https://user-images.githubusercontent.com/70241666/200982463-f6c4e349-dbfc-4d53-8ec0-cf054a010061.png)
+![image](https://user-images.githubusercontent.com/70241666/227061812-984e676e-ea0c-4d14-8135-45c5a6fb2fa8.png)
 
 #### Deleting Content
 
@@ -164,27 +164,27 @@ To delete content, click on the red `Delete` button at the bottom-right of the c
 
 This will open a confirmation box to delete the content.
 
-![image](https://user-images.githubusercontent.com/70241666/206305996-b926ab5b-2b7f-42a1-8fcf-0b9f99a6b19c.png)
+![image](https://user-images.githubusercontent.com/70241666/227061937-a9ae8412-0604-43a8-a2e2-0cdc3748881d.png)
 
 Clicking `No` will bring you back to the Content Page.
 
 Clicking `Yes` will delete the content. If the deletion is successful, you will be shown a success message. As with the others, click anywhere on the page to close the message and be brought to the Content Page.
 
-![image](https://user-images.githubusercontent.com/70241666/200983138-09609074-9c44-4ffb-ab88-68a7723ca7db.png)
+![image](https://user-images.githubusercontent.com/70241666/227061981-22b93a7b-8a4e-4aa8-8d66-846862a8da50.png)
 
 After deleting the content, it will no longer be seen on the Content Page.
 
-![image](https://user-images.githubusercontent.com/70241666/206306110-71cf4f0e-22cb-4cc4-b38e-fbbd243cbfbf.png)
+![image](https://user-images.githubusercontent.com/70241666/227062021-19cfd109-829a-4718-affc-7e3a657694e6.png)
 
 If an error occurs when deleting content, you will be shown an error message stating so. As with the others, click anywhere on the page to attempt deletion again.
 
-![image](https://user-images.githubusercontent.com/70241666/200983232-47df89b7-db31-47c0-a7f3-c5d465985dbf.png)
+![image](https://user-images.githubusercontent.com/70241666/227062059-64f5cde3-7b69-4c71-846b-91d2c1b77652.png)
 
 ## Appointments Page
 
 The Appointments Page allows Advisors to set times that they are available, approve, reject, and cancel appointments, and for Investors to schedule or cancel appointments with Advisors.
 
-![image](https://user-images.githubusercontent.com/70241666/217417968-73bea478-cfe2-4526-82a1-5011120d7ac5.png)
+![image](https://user-images.githubusercontent.com/70241666/227062119-13a96cf5-2b79-4857-b86f-de3875e84e60.png)
 
 ### Advisors
 
@@ -230,9 +230,9 @@ Appointments that can be Accepted or Rejected will be shown on the right. Accept
 
 Clicking Accept or Reject will let you change the status of the appointment.
 
-![image](https://user-images.githubusercontent.com/70241666/217418876-0994efbc-ec08-4bce-ae80-cc5e554a0194.png)
+![image](https://user-images.githubusercontent.com/70241666/227062789-696a77d0-5a43-498a-9864-5e7475755ffa.png)
 
-Click Yes to submit your changes, or No to cancel the status change.
+Enter in the required information and click Approve (or Reject) to change the status, or Cancel to cancel.
 
 Hovering over and clicking an appointment will let you view its details.
 
@@ -268,7 +268,7 @@ To request an appointment, click the Request Appointment button next to the avai
 
 This will bring up a modal in which you can enter in your appointment information.
 
-![image](https://user-images.githubusercontent.com/70241666/217419572-8ec6bac2-7ec9-44cc-90d5-9582be2b701f.png)
+![image](https://user-images.githubusercontent.com/70241666/227062473-0bf97d00-2f23-468b-8536-27d6094bdc46.png)
 
 Clicking Submit Request will submit the request. Clicking Cancel will cancel the request.
 
