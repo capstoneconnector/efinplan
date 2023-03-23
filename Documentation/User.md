@@ -310,24 +310,20 @@ Clicking Yes will remove that appointment. Clicking No will close the modal with
 
 ## Planning Page
 
-The Planning Page currently hosts the calculators provided by the MoneyTree Plan API.
+The Planning Page allows Investors to take a survey that catalogues their financial situation.
 
-![image](https://user-images.githubusercontent.com/70241666/206335388-cda5c3fd-3d45-44ae-ab36-ccf324a2e11b.png)
+![image](https://user-images.githubusercontent.com/70241666/227081764-fe4f344f-3dd9-4d05-9dbb-555e8bed4521.png)
 
-Every calculator here is labeled, simply fill out the form for the one you wish to use and then click the submit button at the bottom.
+To move between questions, use the arrow buttons on the side of each question. For some questions, such as the one pictured above, answering a certain way will open subquestions.
 
-![image](https://user-images.githubusercontent.com/70241666/206335487-bd28da6c-83b8-49ea-b5d7-ab26a71a1dab.png)
+Upon first coming to the page, an Investor will be able to take the survey. If they have already answered it before, they can select a previous response to view.
 
-Some calculators allow you to add more fields using an Add button. Click it to create more fields to fill in what you wish.
+By clicking on the block with a name and the date the survey was completed, you can view the results.
 
-![image](https://user-images.githubusercontent.com/70241666/206335585-f32382ae-9d2e-4e23-8bfd-76ef321d810e.png)
+![image](https://user-images.githubusercontent.com/70241666/227082173-6a52828b-bf1d-4d1d-8c1b-3d48332a5f04.png)
 
-After doing this, if you wish to remove that section, you may click the remove button.
+For Advisors, the Planning Page will display all responses from every Investor.
 
-![image](https://user-images.githubusercontent.com/70241666/206335626-32a2d993-92da-4f90-ab2f-1beb2697e9ae.png)
+![image](https://user-images.githubusercontent.com/70241666/227082264-afa3e223-c2f9-4478-93a6-f31ba91fdfa4.png)
 
-Once a calculator is submitted, it will disappear and be replaced with a collapsable section to view the results. Click it to see the results of the calculator.
-
-![image](https://user-images.githubusercontent.com/70241666/206335781-7902d9ec-4418-45e5-bcc8-f4b8e8a00bfb.png)
-
-![image](https://user-images.githubusercontent.com/70241666/206335883-4eaeae4b-c2c7-4ced-bccf-c90fd59d7096.png)
+Similarly, simply click on a block to view the response.
