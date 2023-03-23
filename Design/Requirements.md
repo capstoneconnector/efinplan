@@ -4,7 +4,7 @@
 * FR1: The website shall allow Advisors to publish content.
 	* BR1
 	* [HIGH]
-* FR2: The website shall allow the Advisor to publish content only if they tick a checkbox verifying that they have had their broker dealer review it.
+* FR2: The website shall populate Content with curated content pulled from Vestorly.
 	* BR1
 	* [MED]
 * FR3: Once an Advisor publishes content successfully, the website shall display a success message for five seconds.
