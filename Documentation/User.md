@@ -316,7 +316,9 @@ The Planning Page allows Investors to take a survey that catalogues their financ
 
 To move between questions, use the arrow buttons on the side of each question. For some questions, such as the one pictured above, answering a certain way will open subquestions.
 
-Upon first coming to the page, an Investor will be able to take the survey. If they have already answered it before, they can select a previous response to view.
+There is a question counter and progress bar to show your progress through the survey.
+
+Upon first coming to the page, an Investor will immediately be able to take the survey. If they have already answered it before, they can select a previous response to view.
 
 By clicking on the block with a name and the date the survey was completed, you can view the results.
 
