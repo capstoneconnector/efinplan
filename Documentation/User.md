@@ -322,6 +322,8 @@ By clicking on the block with a name and the date the survey was completed, you 
 
 ![image](https://user-images.githubusercontent.com/70241666/227082173-6a52828b-bf1d-4d1d-8c1b-3d48332a5f04.png)
 
+To fill out the form again, click the green button telling you that you may do so.
+
 For Advisors, the Planning Page will display all responses from every Investor.
 
 ![image](https://user-images.githubusercontent.com/70241666/227082264-afa3e223-c2f9-4478-93a6-f31ba91fdfa4.png)
