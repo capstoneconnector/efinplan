@@ -11,7 +11,8 @@
 ## Ari
 <img width="561" alt="Screen Shot 2023-04-11 at 5 11 42 PM" src="https://user-images.githubusercontent.com/97753108/231289637-8aa5d249-6ed7-4d9b-982e-834402ffff60.png">
 
-{Add more people}
+## Ben Peak
+![IMG_1588](https://user-images.githubusercontent.com/89539278/231310243-69b47313-8c01-4ab9-8d7d-34a219a9c310.jpg)
 
 # Retrospective
 
@@ -27,4 +28,4 @@ My experience at the Symposium was overall positive, however I am a bit disappoi
 
 
 ## Noah Perez
-
+The Symposium was a lot more crowded than I had imagined. It was cool seeing all the other projects from our fellow capstone classmates along with some of the other projects from different categories. Did feel a little weird as we were mostly surrounded by non CS projects but was able to walk around and see others. Not many people came up to us while I was there but the few that did were pretty polite and actually interested in our project. The  judges that came by were a bit confused about the project and some of their questions we could not answer for them so it was a bit frustrating.
