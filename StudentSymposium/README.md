@@ -1,6 +1,7 @@
 # eFinPlan Pictures
 
-{Replace this with picture of team}
+![Image](https://user-images.githubusercontent.com/46658947/231314396-a77bec71-74dc-46b5-81d0-e4106b86fc3c.jpeg)
+
 
 ## Kiri Woodruff
 ![image](https://user-images.githubusercontent.com/70241666/231283247-f553e57a-8b00-45cb-bb6d-8f37625497cf.png)
