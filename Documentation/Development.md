@@ -189,6 +189,8 @@ Then, you can select a single test and click the green Play icon to run the sele
 
 In this report, the green checkmarks indicate a passing test. If they failed, they will appear as a red "X". On the right side of the Test Explorer, you can see the total runtime of the tests, the total tests passed or failed, and any warnings or errors that occur. Clicking on the Error or Warning text will show you the details of any warning or error.
 
+For integration tests, run `npx cypress open` and then follow [Cypress' guide on running tests.](https://docs.cypress.io/guides/end-to-end-testing/testing-your-app)
+
 # Linting
 Both linting solutions are run through the command line.
 
