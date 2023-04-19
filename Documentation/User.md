@@ -324,6 +324,12 @@ By clicking on the block with a name and the date the survey was completed, you 
 
 ![image](https://user-images.githubusercontent.com/70241666/227082173-6a52828b-bf1d-4d1d-8c1b-3d48332a5f04.png)
 
+This will also let you view a graph of your expected net worth over time.
+
+Below it, you may see tips on ways to prevent losses during retirement.
+
+![image](https://user-images.githubusercontent.com/70241666/233078098-e3d01ee5-3f0d-47f0-8309-6eccf980de92.png)
+
 To fill out the form again, click the green button telling you that you may do so.
 
 For Advisors, the Planning Page will display all responses from every Investor.
